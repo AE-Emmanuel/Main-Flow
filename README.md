@@ -20,3 +20,12 @@ In this task, I worked with pandas to perform basic data manipulation on a CSV d
     Data Exploration: Using pandas to filter, sort, and summarize the dataset.
 
 This task provided essential experience in pre-processing and cleaning data, preparing me for more complex data science tasks ahead.
+
+
+## Task 3: Web Scraping using Python (requests and BeautifulSoup)
+
+In this task, I created a web scraper using requests and BeautifulSoup libraries to extract data from a webpage. The scraper performs the following actions:
+
+    Extracts Text: Retrieves all visible text from the webpage.
+    Extracts Links: Collects all hyperlinks from the page.
+    Extracts Images: Grabs all image URLs found on the page.
