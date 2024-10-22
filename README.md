@@ -29,3 +29,22 @@ In this task, I created a web scraper using requests and BeautifulSoup libraries
     Extracts Text: Retrieves all visible text from the webpage.
     Extracts Links: Collects all hyperlinks from the page.
     Extracts Images: Grabs all image URLs found on the page.
+
+    
+## Task 4: Simple Calculator using Pillow & Tkinter
+
+In this task, I created a GUI-based calculator using Python's Pillow and Tkinter libraries. The calculator performs basic arithmetic operations and showcases the use of images in a graphical user interface.
+
+Key Features:
+
+    Tkinter: Used to create the graphical interface with buttons and display fields.
+    Pillow: Integrated custom images for buttons.
+    Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
+
+Technologies Used:
+
+    Python 3.x
+    Pillow for handling images
+    Tkinter for GUI design
+
+This task provided great experience in GUI development and how to create interactive applications using Python.
