@@ -48,3 +48,21 @@ Technologies Used:
     Tkinter for GUI design
 
 This task provided great experience in GUI development and how to create interactive applications using Python.
+
+## Task 5: Real-Time Currency Converter
+
+This task focused on creating a USD Currency Converter Application using Python. The application features a Tkinter GUI and integrates with a real-time exchange rate API to provide accurate conversions.
+
+Features:
+
+    Real-Time Conversion: Fetches current exchange rates from a reliable API.
+    User-Friendly GUI: Built with Tkinter, featuring input fields, dropdowns for currency selection, and conversion buttons.
+    Multiple Currency Support: Converts USD to various international currencies.
+
+Technologies Used:
+
+    Python 3.x
+    Tkinter for GUI design
+    API Integration for real-time data
+
+This project was a fantastic opportunity to blend GUI development with API utilization, resulting in a practical application for currency conversions.
